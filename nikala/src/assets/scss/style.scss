@@ -1,0 +1,68 @@
+// body{
+//     background-color: #141414
+// }
+@import url("https://cdn.web-fonts.ge/fonts/bpg-nino-mtavruli-bold/css/bpg-nino-mtavruli-bold.min.css");
+@import url("https://cdn.web-fonts.ge/fonts/bpg-ingiri/css/bpg-ingiri.min.css");
+
+.ch-n-m, .ch-n-m > div{
+    margin:0;
+}
+body{
+    background-color: #eeeeee;
+}
+*{
+    font-family: "BPG Ingiri", sans-serif !important;
+    text-align: center;
+    margin-bottom: 0;
+    text-decoration: none !important;
+}
+.bot-media{
+    height: 280px !important;
+    padding: 0 !important;
+    background-position: top !important;
+    cursor: pointer;
+}
+.bot-section{
+    background-image: url('../img/bg2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+}
+.bot-border{
+    max-height: 40vw;
+    border: solid 5px #C2B28F;
+    border-radius: 5px;
+    box-shadow: 0 0 1rem 0 rgba(0,0,0,0.3);
+    margin: 0 !important;
+}
+
+.bot-gallery{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.filled-uncontrolled{
+    background-color: #fff;
+    width: 40vw !important;
+    margin-bottom: 0 !important;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
+.in{
+    font-family: "BPG Nino Mtavruli Bold", sans-serif !important;
+  margin: 30px auto;
+  width: fit-content;
+  padding: 10px;
+  padding-bottom: 0px;
+  border: solid 2px #000000;
+
+}
+
+.bot-wd{
+    width: 40vw;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
