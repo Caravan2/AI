@@ -7,7 +7,7 @@
     "@material-ui/icons": "^3.0.2",
     "axios": "^0.18.0",
     "bootstrap": "4.3.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.8.6",
     "react-audio-recorder": "^2.2.0",
     "react-dictate-button": "^1.1.3",
